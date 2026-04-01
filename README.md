@@ -2,13 +2,13 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como estudante
-- 🌱 Atualmente estou aprendendo desenvolvimento de istemas
+- 🌱 Atualmente estou aprendendo desenvolvimento de sistemas
 - 👯 Estou procurando colaborar em prejetos front/back
-- 🤔 Estou procurando ajuda com escola
+- 🤔 Estou procurando evoluir
 - 💬 Pergunte-me sobre jogos
-- 📫 Como entrar em contato comigo: 14998046463
+- 📫 Como entrar em contato comigo: apenas pessoalmente 
 - 😄 Pronomes: he/him
-- ⚡ Curiosidade: nmehuma
+- ⚡ Curiosidade: nemehuma
 
 
 ## Ferramentas e Tecnologias
